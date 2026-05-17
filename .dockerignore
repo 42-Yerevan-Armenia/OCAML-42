@@ -1,0 +1,10 @@
+.git
+**/.git
+*.opam
+_build
+node_modules
+*.log
+*.tmp
+tmp
+var
+*.swp
